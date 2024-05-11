@@ -1,4 +1,5 @@
-# Fashion-MNIST Project
+# Projeto Fashion-MNIST
 
+## Neste projeto, você irá classificar o conjunto de dados Fashion-MNIST usando redes neurais convolucionais.
 
-## In this project, you will classify Fashion-MNIST dataset using convolutional neural networks.
+## Pytorch
